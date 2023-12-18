@@ -8,7 +8,7 @@ on:
 
 jobs:
   lint-and-format:
-    name: Run ESLint and Prettier
+    name: Run Scarb Format
     runs-on: ubuntu-latest
 
     steps:
